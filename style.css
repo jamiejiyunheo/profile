@@ -1,0 +1,96 @@
+body {
+  background-color: #FFC9B9;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  color: #006d77;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2 {
+  color:#000000;
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 15px;
+}
+
+p {
+  color:#000000;
+  text-align: center;
+}
+
+.page-headers {
+  font-family: 'DM Serif Display', serif;
+  color: #4c956c;
+  text-align: center;
+  font-size: 30px;
+}
+
+#profile-pic {
+  border-radius: 50px;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: #4c956c;
+  display: inline block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  background: #f4f4ec;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px auto;
+  width: 1000px;
+}
+
+#lbg-btn {
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: 'Oooh Baby', cursive;
+  font-size: 17px;
+  font-style: italic;
+  background-color: #f4f4ec;
+  color: #006d77;
+}
+
+#lbg-btn:hover {
+  color: #4d4c4c;
+}
+
+#doggo-pic {
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.flower{
+  display: inline block;
+  margin: center;
+}
+
+#top{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff00;
+}
+
+#icon {
+  font-size: 30px;
+  color: #006d77;
+  display: inline-block;
+  text-align: center;
+  width: 50px;
+}
